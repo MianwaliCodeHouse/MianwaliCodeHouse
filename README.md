@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-pk&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-pk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaid-pk" alt="yasir-pk" /></a> </p>
-
 - 🌱 I’m currently learning **NODE.JS**
 
 - 👯 I’m looking to collaborate on **Open Source**
