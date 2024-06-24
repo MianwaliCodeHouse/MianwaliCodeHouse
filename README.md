@@ -18,8 +18,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://www.youtube.com/@yasirdeveloper" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="c" width="140" style="margin-right:30px"/> </a>
-  <a href="https://www.youtube.com/@yasirdeveloper" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/elephpant-mascot-php-logo-4C78D1AC4E-seeklogo.com.png?v=638245916460000000" alt="c" width="100" style="margin-right:10px"/> </a>
+ <a href="https://www.youtube.com/@yasirdeveloper" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="c" width="140"/> </a> 
+  <a href="https://www.youtube.com/@yasirdeveloper" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/elephpant-mascot-php-logo-4C78D1AC4E-seeklogo.com.png?v=638245916460000000" alt="c" width="100"/> </a>
+  <a href="https://www.youtube.com/@yasirdeveloper" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png" alt="c" width="150"/> </a>
  </p>
 
 
