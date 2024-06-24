@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://www.youtube.com/@yasirdeveloper" target="_blank" rel="noreferrer"> <img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" alt="c" width="40" height="40" style="margin-right:10px"/> </a>
+ <a href="https://www.youtube.com/@yasirdeveloper" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="c" width="140" style="margin-right:10px"/> </a>
  
  </p>
 
