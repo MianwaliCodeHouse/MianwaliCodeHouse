@@ -1,4 +1,5 @@
 ![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+<image src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif"/>
 <h1 align="center">Hi 👋, I'm Muhammad Yasir Hussain.</h1>
 <h3 align="center">A passionate PHP & Laravel developer from Pakistan</h3>
 
